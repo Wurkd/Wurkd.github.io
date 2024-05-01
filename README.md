@@ -1,13 +1,8 @@
 # *Temisanren Odumu*
 
-[Visit my linkedin profile here](https://www.linkedin.com/in/temisanodumu/)  
+[Visit my linkedin profile here][linkedIn]  
 
-[Webiste](https://wurkd.github.io/)  
+[Website][index]  
 
-
-
-
-
-
-
-
+[index]: https://wurkd.github.io/
+[linkedIn]: https://www.linkedin.com/in/temisanodumu/
